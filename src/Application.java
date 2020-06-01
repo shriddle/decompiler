@@ -43,7 +43,7 @@ public class Application {
     {
         if(args.length == 0)
         {
-            args = new String[] {"hello :)"};
+            args = new String[] {"hi there :)"};
         }
         start(args);
     }
